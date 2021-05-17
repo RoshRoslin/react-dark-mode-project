@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "45be6d581e8c76ed4c0a149533564cb4",
+    "revision": "de9e162782eac4370daddfa77a61c2d0",
     "url": "/react-dark-mode-project/index.html"
   },
   {
