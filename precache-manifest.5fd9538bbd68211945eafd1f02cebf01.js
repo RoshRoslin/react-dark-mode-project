@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "de9e162782eac4370daddfa77a61c2d0",
+    "revision": "59b69c03b9847b958f60922cc9f931ee",
     "url": "/react-dark-mode-project/index.html"
   },
   {
-    "revision": "0cc42623615d3156eb2d",
+    "revision": "235f64af3e65078e2ef4",
     "url": "/react-dark-mode-project/static/css/main.281803ff.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-dark-mode-project/static/js/2.a99e8b18.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0cc42623615d3156eb2d",
-    "url": "/react-dark-mode-project/static/js/main.fdaaff8b.chunk.js"
+    "revision": "235f64af3e65078e2ef4",
+    "url": "/react-dark-mode-project/static/js/main.72f617da.chunk.js"
   },
   {
     "revision": "719336815f668be4d6d9",
